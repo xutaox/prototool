@@ -26,8 +26,8 @@ import (
 	"text/scanner"
 
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/file"
-	"github.com/uber/prototool/internal/text"
+	"github.com/xutaox/prototool/internal/file"
+	"github.com/xutaox/prototool/internal/text"
 )
 
 var (

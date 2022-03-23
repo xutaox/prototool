@@ -391,19 +391,19 @@ contribution to Prototool's functionality:
   work.
 
 [mit-img]: http://img.shields.io/badge/License-MIT-blue.svg
-[mit]: https://github.com/uber/prototool/blob/master/LICENSE
+[mit]: https://github.com/xutaox/prototool/blob/master/LICENSE
 
-[release-img]: https://img.shields.io/github/release/uber/prototool/all.svg
-[release]: https://github.com/uber/prototool/releases
+[release-img]: https://img.shields.io/github/release/xutaox/prototool/all.svg
+[release]: https://github.com/xutaox/prototool/releases
 
 [ci-img]: https://img.shields.io/buildkite/5faf32c23003786e641b9140ee98175b81c8bae973ae188415/dev.svg
 [ci]: https://buildkite.com/uberopensource/prototool
 
-[cov-img]: https://codecov.io/gh/uber/prototool/branch/dev/graph/badge.svg
-[cov]: https://codecov.io/gh/uber/prototool/branch/dev
+[cov-img]: https://codecov.io/gh/xutaox/prototool/branch/dev/graph/badge.svg
+[cov]: https://codecov.io/gh/xutaox/prototool/branch/dev
 
-[docker-img]: https://img.shields.io/docker/pulls/uber/prototool.svg
-[docker]: https://hub.docker.com/r/uber/prototool
+[docker-img]: https://img.shields.io/docker/pulls/xutaox/prototool.svg
+[docker]: https://hub.docker.com/r/xutaox/prototool
 
 [homebrew-img]: https://img.shields.io/homebrew/v/prototool.svg
 [homebrew]: https://formulae.brew.sh/formula/prototool

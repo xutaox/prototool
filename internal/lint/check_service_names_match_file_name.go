@@ -24,8 +24,8 @@ import (
 	"path/filepath"
 
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/strs"
-	"github.com/uber/prototool/internal/text"
+	"github.com/xutaox/prototool/internal/strs"
+	"github.com/xutaox/prototool/internal/text"
 )
 
 var serviceNamesMatchFileNameLinter = NewLinter(
